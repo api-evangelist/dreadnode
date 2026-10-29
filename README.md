@@ -64,5 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dreadnode is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by decibel) and added to the network as a stub for full-pipeline profiling.
-- https://dreadnode.io
+Dreadnode provides AI‑driven infrastructure for cybersecurity teams, offering a platform that enables the deployment, evaluation, and scaling of autonomous cyber agents. The service includes model evaluation, evidence generation, and integration tools to operationalize AI agents securely. Dreadnode’s platform supports offensive‑security evaluations, model scoring, and cost‑effective deployment, aiming to bridge the gap between AI capabilities and practical security operations.
+
+**Areas:** Company · AI · Cybersecurity · Platform · Infrastructure
+
+## Dreadnode on APIs.io
+
+Everything profiled for Dreadnode is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dreadnode/](https://apis.io/providers/dreadnode/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Dreadnode API](https://apis.io/apis/dreadnode/dreadnode-api-2/) — API for Dreadnode platform providing AI‑driven cybersecurity services.
+- [Dreadnode API](https://apis.io/apis/dreadnode/dreadnode-api/) — Dreadnode API as documented publicly: 7 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Dreadnode API Rules](https://apis.io/rules/dreadnode/dreadnode-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Dreadnode Domain Security](https://apis.io/security/dreadnode/dreadnode-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Dreadnode Plans Pricing](https://apis.io/plans/dreadnode/dreadnode-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dreadnode.io)
+- [Documentation](https://docs.dreadnode.io)
+- [Getting started](https://docs.dreadnode.io/getting-started/quickstart/)
+- [Pricing](https://dreadnode.io/pricing)
+- [Changelog](https://docs.dreadnode.io/release-notes/)
+- [Blog](https://dreadnode.io/research?filter=blog)
+- [Terms of service](https://app.dreadnode.io/terms)
+- [Privacy policy](https://app.dreadnode.io/privacy)
+- [GitHub](https://github.com/dreadnode)
+
+## API Evangelist rating
+
+**Kin Score 44.4** — developing · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 35.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 50.5 |
+
+**Agent readiness 25.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dreadnode/](https://apis.io/providers/dreadnode/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Dreadnode: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dreadnode/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
